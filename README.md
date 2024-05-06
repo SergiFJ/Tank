@@ -1,2 +1,11 @@
-# tank
-This program use OpenGL and it represents a 2D tank that you can move with the keys 'd' and 'a' to move the tank to the right or left respectively. In addition with the 'Left_Key' and the 'Right_Key' you can move the direction of the cannon.
+# Tank
+This program use OpenGL and it represents a 2D tank that you can move.
+
+## Action
+```
+'d': move right
+'a': move left
+'Left_key': move the direction of the cannon to the left
+'Right_key': move the direction of the cannon to the right
+```
+## Implementation
