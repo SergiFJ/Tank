@@ -3,11 +3,11 @@ This program use OpenGL and it represents a 2D tank that you can move. To run th
 
 ## How to build
 To build the project you need to do the following steps:
-
+```
 qmake
 make
 ./Exercici-2
-
+```
 ## Implementation
 A program implemented with OpenGL. The main code is in the MyGLWwidget.cpp where you can find the interactions with the models that exists. In addition of the differents funcionalities that have the keys:
 ```
